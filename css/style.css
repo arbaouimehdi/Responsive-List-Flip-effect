@@ -137,6 +137,11 @@ body {
     height: 100%;
     position: absolute;
     width: 100%; }
+  .content .card-front-wrapper {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;  }
   .content .card-front {
     -webkit-transform: perspective(1000) rotateX(0);
     -moz-transform: perspective(1000) rotateX(0);
